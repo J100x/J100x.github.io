@@ -1,9 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Dissertation & Projects
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Dissertation (composed by 2 projects) 
+
+Data Science Project: The Intrinsic Value of Ethereum Blockchain Network 
+Finance Project: The Viability of Blockchain for payments and payroll in the HR industry 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
