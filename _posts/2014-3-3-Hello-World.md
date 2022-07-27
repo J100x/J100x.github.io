@@ -6,6 +6,7 @@ title: Dissertation & Projects
 Dissertation (composed by 2 projects) 
 
 Data Science Project: The Intrinsic Value of Ethereum Blockchain Network 
+
 Finance Project: The Viability of Blockchain for payments and payroll in the HR industry 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
