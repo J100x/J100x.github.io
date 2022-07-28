@@ -7,7 +7,7 @@ Dissertation (composed by 2 projects)
 
 Data Science Project: The Intrinsic Value of Ethereum Blockchain Network 
 
-[The Intrinsic Value of Ethereum Blockchain Network](The Intrinsic Value of Ethereum Blockchain Network.pdf)
+[The Intrinsic Value of Ethereum Blockchain Network]([The Intrinsic Value of Ethereum Blockchain Network.pdf](https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf)
 
 <a href="J100x.github.io/_posts/The Intrinsic Value of Ethereum Blockchain Network.pdf" target="_blank">PDF.</a>
 
