@@ -15,7 +15,7 @@ Data Science Project: The Intrinsic Value of Ethereum Blockchain Network
 
 https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf
 
-Finance Project: The Viability of Blockchain for payments and payroll in the HR industry
+Finance Project: The Viability of Blockchain for payments and payroll in the HR industry-
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
