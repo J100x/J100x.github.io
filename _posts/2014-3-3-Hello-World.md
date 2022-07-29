@@ -12,7 +12,7 @@ Dissertation (composed by 2 projects)
 
 Projects
 
-[Data Science: Identifying key technological features behind the Ethereum Blockchain Network that have predicting power in order to predict daily prices using machine learning techniques](https://github.com/J100x/J100x.github.io/images/Identifying%20key%20technological%20features%20behind%20the%20Ethereum%20Blockchain%20Network%20that%20have%20predicting%20power%20in%20order%20to%20predict%20daily%20prices%20using%20machine%20learning%20techniques.pdf)
+[Data Science: Identifying key technological features behind the Ethereum Blockchain Network that have predicting power in order to predict daily prices using machine learning techniques](https://j100x.github.io/images/Identifying%20key%20technological%20features%20behind%20the%20Ethereum%20Blockchain%20Network%20that%20have%20predicting%20power%20in%20order%20to%20predict%20daily%20prices%20using%20machine%20learning%20techniques.pdf)
 
 
 
