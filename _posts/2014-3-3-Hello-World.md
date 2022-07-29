@@ -20,7 +20,9 @@ Projects
   
 [Data Science: Using machine learning techniques (supervised & unsupervised methods) to gain insights of the  datasets](https://j100x.github.io/images/Using%20machine%20learning%20techniques%20to%20gain%20insights%20of%20the%20datasets.pdf)
 
+Group Project
 
+[Portfolio Theory Management: 10x Robo Advisor]()
 
 
 
