@@ -22,7 +22,11 @@ Projects
 
 Group Project
 
-[Portfolio Theory Management: 10x Robo Advisor]()
+[Portfolio Theory Management: 10x Robo Advisor](https://j100x.github.io/images/Portfolio%20Theory%20Management%20-%2010x%20Robo%20Advisor.PDF)
+
+
+
+
 
 
 
