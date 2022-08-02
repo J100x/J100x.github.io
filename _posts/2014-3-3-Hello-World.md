@@ -20,7 +20,7 @@ Other Projects
 [-Evolutionary Computation for Finance: Predictive power of the application of Genetic Programming](https://j100x.github.io/images/Predictive%20power%20of%20the%20application%20of%20Genetic%20Programming.PDF)
 
 
-[-Genetic Algorithms:Investigating the development of a Genetic Algorithm to build optimal investments portfolio](https://j100x.github.io/images/Genetic%20Algorithm%20to%20build%20optimal%20investment%20porfolio.pdf)
+[-Genetic Algorithms: Investigating the development of a Genetic Algorithm to build optimal investments portfolio](https://j100x.github.io/images/Genetic%20Algorithm%20to%20build%20optimal%20investment%20porfolio.pdf)
 
  
 Group Project
