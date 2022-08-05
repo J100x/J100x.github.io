@@ -1,6 +1,10 @@
 
+---
+layout: page
+title: Other Accomplishments
+permalink: /Other Accomplishments/
+---
 
-**Other Accomplishments**
 
 -Graduated with Distinction in my Master in Fintech in the UK at Strathclyde University, ranked #6 in Accounting & Finance in the UK and the first University to launch a Master in Fintech (2017).
 
