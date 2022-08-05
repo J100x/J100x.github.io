@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Other Key Accomplishments
+title: About me
 permalink: /about/
 ---
 
+As an experienced blockchain professional with over 5 years of experience and I’m strategic, global investment research over 10 years. 
 
-
-
+**Other Key Accomplishments**
 
 -Graduated with Distinction in my Master in Fintech in the UK at Strathclyde University, ranked #6 in Accounting & Finance in the UK and the first University to launch a Master in Fintech (2017).
 
