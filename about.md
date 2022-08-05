@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Key Accomplishments
-permalink: /Other Key Accomplishments/
+permalink: /about/
 ---
 
 Some information about you!
