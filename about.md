@@ -24,7 +24,7 @@ permalink: /about/
 
 **Outside Interests**
 
--Provided economic & educational support to children at the Casa de Niños Manuel Fernandez Juncos.
+-Provided economic & educational support to children to charity named "Casa de Niños Manuel Fernandez Juncos".
 
 -Teached surfing classes to young children in Indonesia.
 
