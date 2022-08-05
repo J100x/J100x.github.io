@@ -2,7 +2,6 @@
 ---
 layout: page
 title: Other Accomplishments
-permalink: /Other Accomplishments/
 ---
 
 
