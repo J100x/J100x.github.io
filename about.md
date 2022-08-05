@@ -4,6 +4,8 @@ title: About me
 permalink: /about/
 ---
 
+![Photo](https://github.com/J100x/J100x.github.io/blob/753899bf8febb57a6a0f0e0e8bd56357cff80369/images/Screen%20Shot%202022-08-05%20at%2005.02.53.png?raw=true)
+
 As an experienced blockchain professional with over 5 years of experience and I’m strategic, global investment research over 10 years. 
 
 **Other Key Accomplishments**
