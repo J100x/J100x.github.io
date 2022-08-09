@@ -8,7 +8,7 @@ permalink: /resume/
 [-Resume](https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf)
 
 
-Other Accomplishments
+**Other Accomplishments**
 
 -Graduated with Distinction in my Master in Fintech in the UK at Strathclyde University, ranked #6 in Accounting & Finance in the UK and the first University to launch a Master in Fintech (2017).
 
@@ -24,7 +24,7 @@ Other Accomplishments
 
 -Scholarship in my Bachelor for the UPR-RP Soccer Team, played Right Defense and was the Physical Endurance Captain.
 
-Outside Interests
+**Outside Interests**
 
 -Provided economic & educational support to children to charity named "Casa de Niños Manuel Fernandez Juncos".
 
