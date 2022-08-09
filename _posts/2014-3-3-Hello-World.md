@@ -8,7 +8,7 @@ permalink: /about/
 
 As an experienced blockchain professional with over 5 years of experience and I’m strategic, global investment research over 10 years. 
 
-Dissertation (composed by 2 projects) 
+**Dissertation (composed by 2 projects) **
 
 [-Data Science: The Intrinsic Value of Ethereum Blockchain Network](https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf)
 
