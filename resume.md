@@ -18,7 +18,7 @@ permalink: /resume/
 
 -Represented the University of Strathclyde in Surfing at the British Universities & Colleges Sport League (BUCS).
 
--Named as one of the most outstanding finance students at the University of Puerto Rico, and was a part of the Honor Society.
+-Most outstanding student in finance for the 2011 class at the University of Puerto Rico, and was a part of the Honor Society.
 
 -Won first place in the University of UPR-RP, School of Business Administration Investment Competition, and was awarded a trip to NYC to shadow PWC for a day and visit Wallstreet.
 
