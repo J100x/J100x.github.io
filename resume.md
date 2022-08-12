@@ -12,7 +12,7 @@ permalink: /resume/
 
 -Graduated with Distinction from my master's program in Financial Technology from Strathclyde, which was the first university to launch a graduate program in FinTech (2017) and is ranked #6 in Accounting & Finance in the UK.
 
--Built a Fintech students’ society in my Masters as part of a team named Decentralized Society.
+-Built a Fintech students’ society in my Masters as part of a team named 'Decentralized Society'.
 
 -Selected to be a representative for the University of Strathclyde in promoting their new FinTech Master's program worldwide.
 
