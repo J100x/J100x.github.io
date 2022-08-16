@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
 
-[-Resume](https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf)
+[-Resume](https://j100x.github.io/images/Resume%20August%2015%2C%202022.pdf)
 
 
 **Other Accomplishments**
