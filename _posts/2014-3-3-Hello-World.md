@@ -8,7 +8,7 @@ permalink: /about/
 
 I am an experienced blockchain professional with over ten years of experience in strategic investments across the globe as well as five years in blockchain investment research.
 
-Passionate investor about all things blockchain, machine learning, & AI.
+Passionate investor about all things blockchain, machine learning & AI.
 
 **Dissertation (composed by 2 projects)**
 
