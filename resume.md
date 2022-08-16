@@ -37,3 +37,5 @@ permalink: /resume/
 
 **Be Fearful When Others Are Greedy. Be Greedy When Others Are Fearful.” -Warren Buffet**
 
+**Proverbs 24:3-4**
+
