@@ -31,3 +31,9 @@ permalink: /resume/
 -Taught surfing classes to young children in Indonesia.
 
 -Recreational interests: soccer, travel, nature activity, solarpunk-surfer, & reading.
+
+
+
+
+**Be Fearful When Others Are Greedy. Be Greedy When Others Are Fearful.” -Warren Buffet**
+
