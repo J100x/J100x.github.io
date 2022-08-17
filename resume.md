@@ -39,3 +39,5 @@ permalink: /resume/
 
 **Proverbs 24:3-4**
 
+*If you would like to connect, feel free to send me an email.
+
