@@ -19,7 +19,7 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 **Dissertation 2.0 (expected to release 1st Quarter 2023)**
 
-Value of the Ethereum Network based on Network Effects & Network Quality
+-Value of the Ethereum Network based on Network Effects & Network Quality
 
 **Blockchain Worldwide Tour**
 
