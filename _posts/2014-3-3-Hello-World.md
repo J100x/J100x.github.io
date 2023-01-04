@@ -17,6 +17,8 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 [-Finance Project: The Viability of Blockchain for payments and payroll in the HR industry](https://j100x.github.io/images/The%20Viability%20of%20Payments%20&%20Payroll%20with%20Blockchain%20Technology.pdf)
 
+**Dissertation 2.0 (expected to release 1st Quarter 2023)
+
 **Blockchain Worldwide Tour**
 
 [-Investments Insights Report & Beyond](https://medium.com/@joshuaeick)
