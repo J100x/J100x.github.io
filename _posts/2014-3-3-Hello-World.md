@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Photo](https://github.com/J100x/J100x.github.io/blob/753899bf8febb57a6a0f0e0e8bd56357cff80369/images/Screen%20Shot%202022-08-05%20at%2005.02.53.png?raw=true)
 
-I'm an experienced blockchain professional with over ten years of experience in strategic investments across the globe as well as five years in blockchain investment research.
+I'm an experienced blockchain professional with over ten years of experience in strategic investments worldwide, including five years in cryptocurrency investment research and as a blockchain data scientist. I have developed a specialized focus on the value of digital assets. I'm particularly devoted to researching the intrinsic value of digital assets and building algorithms for short-term digital asset pricing.
 
 Passionate investor about all things blockchain, machine learning & AI.
 
