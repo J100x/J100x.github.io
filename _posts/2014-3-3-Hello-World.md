@@ -24,3 +24,5 @@ Passionate investor about all things blockchain, machine learning & AI.
 **Blockchain Worldwide Tour**
 
 [-Investments Insights Report & Beyond](https://medium.com/@joshuaeick)
+
+[You can learn more about me](https://linktr.ee/j100xob)
