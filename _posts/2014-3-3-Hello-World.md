@@ -25,4 +25,4 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 [-Investments Insights Report & Beyond](https://medium.com/@joshuaeick)
 
-[You can learn more about me](https://linktr.ee/j100xob)
+[*You can learn more about me](https://linktr.ee/j100xob)
