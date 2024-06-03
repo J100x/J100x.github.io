@@ -17,12 +17,12 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 [-Finance Project: The Viability of Blockchain for payments and payroll in the HR industry](https://j100x.github.io/images/The%20Viability%20of%20Payments%20&%20Payroll%20with%20Blockchain%20Technology.pdf)
 
-**Dissertation 2.0 (expected to be published in Academic Journal in 2024)**
+**Valuation of the Ethereum Network 2.0 (expected to be published in Academic Journal in 2024)**
 
--Value of the Ethereum Network based on Network Effects & Network Quality
+[-Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
 
 **Blockchain Worldwide Tour**
 
 [-Investments Insights Report & Beyond](https://medium.com/@joshuaeick)
 
-[*Learn more by clicking here](https://linktr.ee/j100xob)
+[*Learn more by clicking here](https://linktr.ee/JoshEick)
