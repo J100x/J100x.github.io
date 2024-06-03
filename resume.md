@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Resume
-permalink: /resume/
+title: Other Accomplishments
+permalink: /Other Accomplishments/
 ---
-
-
-[-Resume](https://j100x.github.io/images/Resume%20-%20August%2015%2C%202022.pdf)
 
 
 **Other Accomplishments**
