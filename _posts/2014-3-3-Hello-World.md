@@ -10,14 +10,14 @@ I'm an experienced blockchain professional with over ten years of experience in 
 
 Passionate investor about all things blockchain, machine learning & AI.
 
-**Dissertation (composed by 2 projects)**
+**Master's Dissertation (comprising 2 projects)**
 
 [-Data Science: The Intrinsic Value of Ethereum Blockchain Network](https://j100x.github.io/images/The%20Intrinsic%20Value%20of%20Ethereum%20Blockchain%20Network.pdf)
 
 
 [-Finance Project: The Viability of Blockchain for payments and payroll in the HR industry](https://j100x.github.io/images/The%20Viability%20of%20Payments%20&%20Payroll%20with%20Blockchain%20Technology.pdf)
 
-**Valuation of the Ethereum Network 2.0 (expected to be published in Academic Journal in 2024)**
+**Research paper on digital asset valuation in collaboration with Ken Alabi, Ph.D., M.CAE**
 
 [-Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
 
