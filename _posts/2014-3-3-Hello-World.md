@@ -17,11 +17,11 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 [-Finance Project: The Viability of Blockchain for payments and payroll in the HR industry](https://j100x.github.io/images/The%20Viability%20of%20Payments%20&%20Payroll%20with%20Blockchain%20Technology.pdf)
 
-**Research paper on digital asset valuation in collaboration with Ken Alabi, Ph.D., M.CAE**
+**Research paper on digital asset valuation in collaboration with Ken Alabi, Ph.D., M.CAE, titled Refining Metcalfe’s Law for Digital Blockchain Network Valuation**
 
-[-Journal Publication: International Journal of Blockchain Technologies and Applications (IJBTA) - Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://www.ijbta.com/show-180-2149-1.html)
+[-Journal Publication: International Journal of Blockchain Technologies and Applications (IJBTA)](https://www.ijbta.com/show-180-2149-1.html)
 
-[-SSRN: Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
+[-SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
 
 **Blockchain Worldwide Tour**
 
