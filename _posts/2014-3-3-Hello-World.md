@@ -19,7 +19,9 @@ Passionate investor about all things blockchain, machine learning & AI.
 
 **Research paper on digital asset valuation in collaboration with Ken Alabi, Ph.D., M.CAE**
 
-[-Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
+[-Journal Publication: International Journal of Blockchain Technologies and Applications (IJBTA) - Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://www.ijbta.com/show-180-2149-1.html)
+
+[-SSRN: Refining Metcalfe's Law for Digital Blockchain Network Valuation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4839567)
 
 **Blockchain Worldwide Tour**
 
