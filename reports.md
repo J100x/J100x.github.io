@@ -4,7 +4,6 @@ title: Reports
 permalink: /reports/
 ---
 
-# Reports
 
 Below are my blockchain investment and research reports published on Medium.
 
