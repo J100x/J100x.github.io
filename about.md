@@ -6,7 +6,18 @@ permalink: /about/
 
 ![Photo](https://github.com/J100x/J100x.github.io/blob/753899bf8febb57a6a0f0e0e8bd56357cff80369/images/Screen%20Shot%202022-08-05%20at%2005.02.53.png?raw=true)
 
-As an experienced blockchain professional with over 5 years of experience and I’m strategic, global investment research over 10 years. 
+Greetings! My name is Joshua Eick.
+I’m a Blockchain Investment Scientist. I was operating across Austin, TX and the United Kingdom. 
+
+My scholarly and applied interests converge at the frontier of blockchain economics, machine learning & neural networks, and digital asset valuation theory:
+
+	•	Blockchain Network Valuation Framework: I formulate and empirically validate quantitative valuation models for decentralized networks, extending Metcalfe's Law through machine learning inference to elucidate the intrinsic value of digital assets, principally through building BNV Framework. 
+	•	Algorithmic Investment Research: Engineer of Economic Demand & Supply Functions for modeling demand and supply dynamics in the Ethereum smart contract platform.\
+	•	Deep Learning in Financial Systems: I build GRU-Attention-CNN hybrid architectures to model digital asset price dynamics, synthesizing frontier representation learning with blockchain network theory to attain R² > 0.95 on Glassnode data (2015–2022).
+
+I hold a Master of Science in Financial Technology from the University of Strathclyde — the inaugural institution globally to confer a graduate degree in FinTech (2017), ranked #6 in Accounting & Finance in the United Kingdom and I passed CFA Level 1.
+I co-authored an academic peer-reviewed publication, Refining Metcalfe's Law for Digital Blockchain Network Valuation, in collaboration with Ken Alabi, Ph.D., M.CAE, appearing in the International Journal of Blockchain Technologies and Applications and also is disseminated via SSRN.
+I conduct the Blockchain Worldwide Tour —I attended the world's foremost blockchain summits and hackathons, producing investment and research reports
 
 Dissertation (composed by 2 projects) 
 
