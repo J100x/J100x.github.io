@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JE
+title:
 permalink: /about/
 ---
 
