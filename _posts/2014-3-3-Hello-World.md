@@ -11,9 +11,9 @@ I’m a Blockchain Investment Scientist. I was operating across Austin, TX and t
 
 My scholarly and applied interests converge at the frontier of blockchain economics, machine learning & neural networks, and digital asset valuation theory:
 
-- Blockchain Network Valuation Framework: I formulate and empirically validate quantitative valuation models for decentralized networks, extending Metcalfe's Law through machine learning inference to elucidate the intrinsic value of digital assets, principally through building BNV Framework.
+- Network Valuation Framework in Digital Assets: I formulate and empirically validate quantitative valuation models for decentralized networks, extending Metcalfe's Law through machine learning inference to elucidate the intrinsic value of digital assets, principally through building BNV Framework.
   
-- Algorithmic Investment Research: Engineer of Economic Demand & Supply Functions for modeling demand and supply dynamics in the Ethereum smart contract platform for devoping a predictive model.
+- Algorithmic Investment Research in Ethereum: Engineer of Economic Demand & Supply Functions for modeling demand and supply dynamics in the Ethereum smart contract platform for devoping a predictive model.
 	
 - Deep Learning in Digital Financial Systems: I build GRU-Attention-CNN hybrid architectures to model digital asset price dynamics, synthesizing frontier representation learning with blockchain network theory to attain R² > 0.95 on Glassnode data (2015–2022).
 	
