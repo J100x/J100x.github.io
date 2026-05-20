@@ -13,13 +13,15 @@ My scholarly and applied interests converge at the frontier of blockchain econom
 
 - Blockchain Network Valuation Framework: I formulate and empirically validate quantitative valuation models for decentralized networks, extending Metcalfe's Law through machine learning inference to elucidate the intrinsic value of digital assets, principally through building BNV Framework.
   
-- Algorithmic Investment Research: Engineer of Economic Demand & Supply Functions for modeling demand and supply dynamics in the Ethereum smart contract platform for building a predictive model.
+- Algorithmic Investment Research: Engineer of Economic Demand & Supply Functions for modeling demand and supply dynamics in the Ethereum smart contract platform for devoping a predictive model.
 	
-- Deep Learning in Financial Systems: I build GRU-Attention-CNN hybrid architectures to model digital asset price dynamics, synthesizing frontier representation learning with blockchain network theory to attain R² > 0.95 on Glassnode data (2015–2022).
+- Deep Learning in Digital Financial Systems: I build GRU-Attention-CNN hybrid architectures to model digital asset price dynamics, synthesizing frontier representation learning with blockchain network theory to attain R² > 0.95 on Glassnode data (2015–2022).
 	
 I hold a Master of Science in Financial Technology from the University of Strathclyde — the inaugural institution globally to confer a graduate degree in FinTech (2017), ranked #6 in Accounting & Finance in the United Kingdom and I passed CFA Level 1.
+
 I co-authored an academic peer-reviewed publication, Refining Metcalfe's Law for Digital Blockchain Network Valuation, in collaboration with Ken Alabi, Ph.D., M.CAE, appearing in the International Journal of Blockchain Technologies and Applications and also is disseminated via SSRN.
-I conduct the Blockchain Worldwide Tour —I attended the world's foremost blockchain summits and hackathons, producing investment and research reports
+
+I conduct the Blockchain Worldwide Tour —I attended the world's foremost blockchain summits and hackathons, producing investment and research reports.
 
 **Master's Dissertation (comprising 2 projects)**
 
