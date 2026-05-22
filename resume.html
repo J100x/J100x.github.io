@@ -3,7 +3,6 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
-
 <style>
   body,
   .page-content,
@@ -11,7 +10,6 @@ permalink: /resume/
   main {
     background: #ffffff !important;
   }
-
   #pdf-container {
     max-width: 880px;
     margin: 40px auto 60px;
@@ -20,14 +18,12 @@ permalink: /resume/
     align-items: center;
     gap: 20px;
   }
-
   #pdf-container canvas {
     width: 100%;
     box-shadow: 0 2px 20px rgba(0,0,0,0.12);
     background: #fff;
     display: block;
   }
-
   #pdf-loading {
     font-family: Georgia, serif;
     color: #777;
@@ -35,36 +31,138 @@ permalink: /resume/
     margin-top: 60px;
     letter-spacing: 0.05em;
   }
+
+  /* ── Below PDF section ── */
+  .resume-extra {
+    max-width: 820px;
+    margin: 0 auto 100px;
+    font-family: Georgia, serif;
+    font-size: 17px;
+    line-height: 1.72;
+    color: #1a1a1a;
+    padding: 0 32px;
+  }
+
+  .resume-extra hr {
+    border: none;
+    border-top: 1px solid #e5e5e5;
+    margin: 0 0 48px;
+  }
+
+  /* ── Two-column entry (matches reports/otherprojects style) ── */
+  .re-entry {
+    display: grid;
+    grid-template-columns: 148px 1fr;
+    column-gap: 40px;
+    margin-bottom: 16px;
+    align-items: start;
+  }
+
+  .re-label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 13.5px;
+    font-weight: 400;
+    color: #999;
+    padding-top: 4px;
+    white-space: nowrap;
+  }
+
+  .re-desc {
+    font-size: 17px;
+    line-height: 1.68;
+    color: #1a1a1a;
+  }
+
+  .re-desc em { font-style: italic; }
+
+  .re-desc a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-thickness: 1px;
+  }
+
+  .re-desc a:hover { opacity: 0.55; }
+
+  .re-section-gap { margin-bottom: 36px; }
+
+  .re-quote {
+    display: grid;
+    grid-template-columns: 148px 1fr;
+    column-gap: 40px;
+    margin-bottom: 16px;
+  }
+
+  .re-quote-text {
+    font-style: italic;
+    font-size: 16px;
+    color: #444;
+    border-left: 2px solid #ccc;
+    padding-left: 16px;
+    line-height: 1.68;
+  }
+
+  .re-proverb {
+    display: grid;
+    grid-template-columns: 148px 1fr;
+    column-gap: 40px;
+    margin-bottom: 16px;
+  }
+
+  .re-proverb-text {
+    font-size: 15px;
+    color: #777;
+  }
+
+  .re-connect {
+    display: grid;
+    grid-template-columns: 148px 1fr;
+    column-gap: 40px;
+    margin-bottom: 16px;
+  }
+
+  .re-connect-text {
+    font-size: 15px;
+    color: #999;
+    font-style: italic;
+  }
+
+  @media (max-width: 580px) {
+    .re-entry,
+    .re-quote,
+    .re-proverb,
+    .re-connect {
+      grid-template-columns: 1fr;
+      row-gap: 4px;
+      margin-bottom: 16px;
+    }
+  }
 </style>
 
+<div style="max-width:880px; margin: 40px auto 0; font-family: Georgia, serif; font-size: 13px; color: #999; letter-spacing: 0.08em; text-align: left; padding: 0 20px;">Résumé — Current as of 2025</div>
+
 <div id="pdf-loading">Loading résumé...</div>
-<div style="max-width:880px; margin: 40px auto 0; font-family: Georgia, serif; font-size: 13px; color: #999; letter-spacing: 0.08em; text-align: left;">Résumé — Current as of 2025</div>
 <div id="pdf-container"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script>
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-
   const url = 'https://j100x.github.io/resume.pdf';
   const container = document.getElementById('pdf-container');
   const loading = document.getElementById('pdf-loading');
-
   pdfjsLib.getDocument(url).promise.then(function(pdf) {
     loading.style.display = 'none';
-
     for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
       pdf.getPage(pageNum).then(function(page) {
         const scale = 2.0;
         const viewport = page.getViewport({ scale });
-
         const canvas = document.createElement('canvas');
         canvas.height = viewport.height;
         canvas.width = viewport.width;
         canvas.style.maxWidth = '100%';
         canvas.style.height = 'auto';
         container.appendChild(canvas);
-
         page.render({
           canvasContext: canvas.getContext('2d'),
           viewport: viewport
@@ -80,57 +178,59 @@ permalink: /resume/
      BELOW PDF
 ═══════════════════════════════ -->
 <div class="resume-extra">
- 
+
   <hr />
- 
+
   <!-- Other Accomplishments -->
   <div class="re-entry">
     <span class="re-label">Other Accomplishments</span>
     <p class="re-desc">Built a FinTech students' society during the Master's programme as part of a team named <em>Decentralised Society</em>.</p>
   </div>
- 
+
   <div class="re-entry">
     <span class="re-label"></span>
     <p class="re-desc">Selected as global representative for the <em>University of Strathclyde</em> to promote their pioneering FinTech Master's programme worldwide.</p>
   </div>
- 
+
   <div class="re-entry re-section-gap">
     <span class="re-label"></span>
     <p class="re-desc">Represented the <em>University of Strathclyde</em> in Surfing at the British Universities &amp; Colleges Sport League (BUCS).</p>
   </div>
- 
+
   <!-- Outside Interests -->
   <div class="re-entry">
     <span class="re-label">Outside Interests</span>
     <p class="re-desc">Provided economic &amp; educational support to children at the charity <em>Casa de Niños Manuel Fernández Juncos</em>, Puerto Rico.</p>
   </div>
- 
+
   <div class="re-entry">
     <span class="re-label"></span>
     <p class="re-desc">Taught surfing classes to young children in Indonesia.</p>
   </div>
- 
+
   <div class="re-entry re-section-gap">
     <span class="re-label"></span>
     <p class="re-desc">Recreational interests: soccer, travel, nature, solarpunk-surfer, &amp; reading.</p>
   </div>
- 
+
   <!-- Quote -->
   <div class="re-quote">
     <span></span>
     <p class="re-quote-text">"Be Fearful When Others Are Greedy. Be Greedy When Others Are Fearful." — Warren Buffett</p>
   </div>
- 
+
   <!-- Proverb -->
   <div class="re-proverb">
     <span></span>
     <p class="re-proverb-text">Proverbs 24:3–4</p>
   </div>
- 
+
   <!-- Connect -->
   <div class="re-connect">
     <span></span>
     <p class="re-connect-text">If you would like to connect, feel free to <a href="mailto:jleick.proton.me">send me an email</a>.</p>
   </div>
- 
+
 </div>
+
+
