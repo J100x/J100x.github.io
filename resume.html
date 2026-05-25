@@ -3,6 +3,7 @@ layout: default
 title: Resume
 permalink: /resume/
 ---
+
 <style>
   body,
   .page-content,
@@ -10,6 +11,7 @@ permalink: /resume/
   main {
     background: #ffffff !important;
   }
+
   #pdf-container {
     max-width: 880px;
     margin: 40px auto 60px;
@@ -18,12 +20,14 @@ permalink: /resume/
     align-items: center;
     gap: 20px;
   }
+
   #pdf-container canvas {
     width: 100%;
     box-shadow: 0 2px 20px rgba(0,0,0,0.12);
     background: #fff;
     display: block;
   }
+
   #pdf-loading {
     font-family: Georgia, serif;
     color: #777;
@@ -33,6 +37,7 @@ permalink: /resume/
   }
 
   /* ── Below PDF section ── */
+
   .resume-extra {
     max-width: 820px;
     margin: 0 auto 100px;
@@ -49,7 +54,8 @@ permalink: /resume/
     margin: 0 0 48px;
   }
 
-  /* ── Two-column entry (matches reports/otherprojects style) ── */
+  /* ── Two-column entry ── */
+
   .re-entry {
     display: grid;
     grid-template-columns: 148px 1fr;
@@ -73,7 +79,9 @@ permalink: /resume/
     color: #1a1a1a;
   }
 
-  .re-desc em { font-style: italic; }
+  .re-desc em {
+    font-style: italic;
+  }
 
   .re-desc a {
     color: inherit;
@@ -82,9 +90,13 @@ permalink: /resume/
     text-decoration-thickness: 1px;
   }
 
-  .re-desc a:hover { opacity: 0.55; }
+  .re-desc a:hover {
+    opacity: 0.55;
+  }
 
-  .re-section-gap { margin-bottom: 36px; }
+  .re-section-gap {
+    margin-bottom: 36px;
+  }
 
   .re-quote {
     display: grid;
@@ -139,98 +151,152 @@ permalink: /resume/
   }
 </style>
 
-<div style="max-width:880px; margin: 40px auto 0; font-family: Georgia, serif; font-size: 13px; color: #999; letter-spacing: 0.08em; text-align: left; padding: 0 20px;">Résumé — Current as of 2025</div>
+<div style="max-width:880px; margin: 40px auto 0; font-family: Georgia, serif; font-size: 13px; color: #999; letter-spacing: 0.08em; text-align: left; padding: 0 20px;">
+  Résumé — Current as of 2025
+</div>
 
 <div id="pdf-loading">Loading résumé...</div>
 <div id="pdf-container"></div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+
 <script>
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
-  const url = 'https://j100x.github.io/resume.pdf';
+
+  /* FIXED PATH */
+  const url = '/resume.pdf';
+
   const container = document.getElementById('pdf-container');
   const loading = document.getElementById('pdf-loading');
-  pdfjsLib.getDocument(url).promise.then(function(pdf) {
-    loading.style.display = 'none';
-    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-      pdf.getPage(pageNum).then(function(page) {
-        const scale = 2.0;
-        const viewport = page.getViewport({ scale });
-        const canvas = document.createElement('canvas');
-        canvas.height = viewport.height;
-        canvas.width = viewport.width;
-        canvas.style.maxWidth = '100%';
-        canvas.style.height = 'auto';
-        container.appendChild(canvas);
-        page.render({
-          canvasContext: canvas.getContext('2d'),
-          viewport: viewport
+
+  pdfjsLib.getDocument(url).promise
+    .then(function(pdf) {
+
+      loading.style.display = 'none';
+
+      for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+
+        pdf.getPage(pageNum).then(function(page) {
+
+          const scale = 2.0;
+          const viewport = page.getViewport({ scale });
+
+          const canvas = document.createElement('canvas');
+
+          canvas.height = viewport.height;
+          canvas.width = viewport.width;
+
+          canvas.style.maxWidth = '100%';
+          canvas.style.height = 'auto';
+
+          container.appendChild(canvas);
+
+          page.render({
+            canvasContext: canvas.getContext('2d'),
+            viewport: viewport
+          });
+
         });
-      });
-    }
-  }).catch(function() {
-    loading.textContent = 'Could not load résumé.';
-  });
+
+      }
+
+    })
+    .catch(function(error) {
+
+      console.error(error);
+
+      loading.textContent = 'Could not load résumé.';
+
+    });
 </script>
 
 <!-- ══════════════════════════════
      BELOW PDF
 ═══════════════════════════════ -->
+
 <div class="resume-extra">
 
   <hr />
 
   <!-- Other Accomplishments -->
+
   <div class="re-entry">
     <span class="re-label">Other Accomplishments</span>
-    <p class="re-desc">Built a FinTech students' society during the Master's programme as part of a team named <em>Decentralised Society</em>.</p>
+    <p class="re-desc">
+      Built a FinTech students' society during the Master's programme as part of a team named <em>Decentralised Society</em>.
+    </p>
   </div>
 
   <div class="re-entry">
     <span class="re-label"></span>
-    <p class="re-desc">Selected as global representative for the <em>University of Strathclyde</em> to promote their pioneering FinTech Master's programme worldwide.</p>
+    <p class="re-desc">
+      Selected as global representative for the <em>University of Strathclyde</em> to promote their pioneering FinTech Master's programme worldwide.
+    </p>
   </div>
 
   <div class="re-entry re-section-gap">
     <span class="re-label"></span>
-    <p class="re-desc">Represented the <em>University of Strathclyde</em> in Surfing at the British Universities &amp; Colleges Sport League (BUCS).</p>
+    <p class="re-desc">
+      Represented the <em>University of Strathclyde</em> in Surfing at the British Universities &amp; Colleges Sport League (BUCS).
+    </p>
   </div>
 
   <!-- Outside Interests -->
+
   <div class="re-entry">
     <span class="re-label">Outside Interests</span>
-    <p class="re-desc">Provided economic &amp; educational support to children at the charity <em>Casa de Niños Manuel Fernández Juncos</em>, Puerto Rico.</p>
+    <p class="re-desc">
+      Provided economic &amp; educational support to children at the charity <em>Casa de Niños Manuel Fernández Juncos</em>, Puerto Rico.
+    </p>
   </div>
 
   <div class="re-entry">
     <span class="re-label"></span>
-    <p class="re-desc">Taught surfing classes to young children in Indonesia.</p>
+    <p class="re-desc">
+      Taught surfing classes to young children in Indonesia.
+    </p>
   </div>
 
   <div class="re-entry re-section-gap">
     <span class="re-label"></span>
-    <p class="re-desc">Recreational interests: soccer, travel, nature, solarpunk-surfer, &amp; reading.</p>
+    <p class="re-desc">
+      Recreational interests: soccer, travel, nature, solarpunk-surfer, &amp; reading.
+    </p>
   </div>
 
   <!-- Quote -->
+
   <div class="re-quote">
     <span></span>
-    <p class="re-quote-text">"Be Fearful When Others Are Greedy. Be Greedy When Others Are Fearful." — Warren Buffett</p>
+    <p class="re-quote-text">
+      "Be Fearful When Others Are Greedy. Be Greedy When Others Are Fearful." — Warren Buffett
+    </p>
   </div>
 
   <!-- Proverb -->
+
   <div class="re-proverb">
     <span></span>
-    <p class="re-proverb-text">Proverbs 24:3–4</p>
+    <p class="re-proverb-text">
+      Proverbs 24:3–4
+    </p>
   </div>
 
   <!-- Connect -->
+
   <div class="re-connect">
     <span></span>
-    <p class="re-connect-text">If you would like to connect, feel free to <a href="mailto:jleick.proton.me">send me an email</a>.</p>
+    <p class="re-connect-text">
+      If you would like to connect, feel free to
+      <a href="mailto:jleick.proton.me">send me an email</a>.
+    </p>
   </div>
 
 </div>
+
+
+
+
 
 
