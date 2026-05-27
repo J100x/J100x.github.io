@@ -1,101 +1,61 @@
 <!DOCTYPE html>
 <html>
   <head>
-
     <link rel="icon"
           href="/images/Screen%20Shot%202022-07-27%20at%2008.39.09.png"
           type="image/png">
-
     <title>
       {% if page.title %}
         {{ page.title }} –
       {% endif %}
       {{ site.name }} – {{ site.description }}
     </title>
-
     {% include meta.html %}
-
     <!--[if lt IE 9]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-    <!-- FIXED CSS PATH -->
     <link rel="stylesheet"
           type="text/css"
           href="/style.css" />
-
-    <!-- FIXED RSS PATH -->
     <link rel="alternate"
           type="application/rss+xml"
           title="{{ site.name }} - {{ site.description }}"
           href="/feed.xml" />
-
   </head>
-
   <body>
-
     <div class="wrapper-masthead">
       <div class="container">
-
         <header class="masthead clearfix">
-
-          <!-- FIXED HOME LINK -->
-          <a href="/" class="site-avatar">
+          <a href="/home/" class="site-avatar">
             <img src="{{ site.avatar }}" />
           </a>
-
           <div class="site-info">
-
-            <!-- FIXED HOME LINK -->
             <h1 class="site-name">
-              <a href="/">{{ site.name }}</a>
+              <a href="/home/">{{ site.name }}</a>
             </h1>
-
             <p class="site-description">
               {{ site.description }}
             </p>
-
           </div>
-
           <nav>
-
-            <!-- FIXED NAV LINKS -->
-            <a href="/home">Home</a>
-
-            <a href="/reports/">
-              Reports
-            </a>
-
-            <a href="/otherprojects">
-              Projects
-            </a>
-
-            <a href="/resume">
-              Resume
-            </a>
-
+            <a href="/home/">Home</a>
+            <a href="/reports/">Reports</a>
+            <a href="/otherprojects/">Projects</a>
+            <a href="/resume/">Resume</a>
           </nav>
-
         </header>
-
       </div>
     </div>
-
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
     <div class="wrapper-footer">
       <div class="container">
-
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
-
       </div>
     </div>
-
     {% include analytics.html %}
-
   </body>
 </html>
